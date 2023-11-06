@@ -1,8 +1,8 @@
-address: https://test-stand.gb.ru
-#driver_path: chromedriver.exe
+address: https://test-stand.gb.ru/login
+driver_path: chromedriver.exe
 browser: chrome
 #browser: firefox
-sleep_time: 4
+sleep_time: 10
 
 
 

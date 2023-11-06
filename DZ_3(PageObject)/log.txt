@@ -1,0 +1,18 @@
+2023-11-06 22:30:13 INFO ====== WebDriver manager ======
+2023-11-06 22:30:14 INFO Get LATEST chromedriver version for google-chrome
+2023-11-06 22:30:15 INFO Get LATEST chromedriver version for google-chrome
+2023-11-06 22:30:16 INFO Driver [C:\Users\79199\.wdm\drivers\chromedriver\win64\119.0.6045.105\chromedriver-win32/chromedriver.exe] found in cache
+2023-11-06 22:30:18 INFO Test DZ3 Starting
+2023-11-06 22:30:19 INFO Send 'olegpopov1111111' to element //*[@id="login"]/div[1]/label/input
+2023-11-06 22:30:19 INFO Send '9164f4875d' to element //*[@id="login"]/div[2]/label/input
+2023-11-06 22:30:19 INFO Click logging button
+2023-11-06 22:30:19 INFO Click contact button
+2023-11-06 22:30:21 INFO Send 'test' to element //*[@id="contact"]/div[1]/label/input
+2023-11-06 22:30:21 INFO Check Assert for name field in Contact Us
+2023-11-06 22:30:21 INFO Send 'test@test.test' to element //*[@id="contact"]/div[2]/label/input
+2023-11-06 22:30:22 INFO Check Assert for email field in Contact Us
+2023-11-06 22:30:22 INFO Send 'test_test_test' to element //*[@id="contact"]/div[3]/label/span/textarea
+2023-11-06 22:30:22 INFO Check Assert for contact field in Contact Us
+2023-11-06 22:30:22 INFO Click Contact Us button
+2023-11-06 22:30:27 INFO Check Alert
+2023-11-06 22:30:27 INFO We find text Form successfully submitted in enter-page ALERT

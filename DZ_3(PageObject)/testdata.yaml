@@ -1,0 +1,9 @@
+address: https://test-stand.gb.ru
+#driver_path: chromedriver.exe
+browser: chrome
+#browser: firefox
+sleep_time: 4
+
+login: 'olegpopov1111111'
+password: '9164f4875d'
+

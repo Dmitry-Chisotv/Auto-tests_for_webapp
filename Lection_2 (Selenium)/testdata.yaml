@@ -1,5 +1,4 @@
 address: https://test-stand.gb.ru
-address_post: https://test-stand.gb.ru/login
 #driver_path: chromedriver.exe
 browser: chrome
 #browser: firefox

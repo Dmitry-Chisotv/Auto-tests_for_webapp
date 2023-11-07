@@ -1,9 +1,9 @@
-2023-11-06 16:53:58 INFO ====== WebDriver manager ======
-2023-11-06 16:54:00 INFO Get LATEST chromedriver version for google-chrome
-2023-11-06 16:54:01 INFO Get LATEST chromedriver version for google-chrome
-2023-11-06 16:54:02 INFO Driver [C:\Users\79199\.wdm\drivers\chromedriver\win64\119.0.6045.105\chromedriver-win32/chromedriver.exe] found in cache
-2023-11-06 16:54:04 INFO Test 2 Starting
-2023-11-06 16:54:04 INFO Send 'olegpopov1111111' to element //*[@id="login"]/div[1]/label/input
-2023-11-06 16:54:06 INFO Send '9164f4875d' to element //*[@id="login"]/div[2]/label/input
-2023-11-06 16:54:06 INFO Click logging button
-2023-11-06 16:54:07 INFO We find text Hello, olegpopov1111111 in enter-page field //*[@id="app"]/main/nav/ul/li[3]/a
+2023-11-07 23:35:28 INFO ====== WebDriver manager ======
+2023-11-07 23:35:30 INFO Get LATEST chromedriver version for google-chrome
+2023-11-07 23:35:31 INFO Get LATEST chromedriver version for google-chrome
+2023-11-07 23:35:32 INFO Driver [C:\Users\79199\.wdm\drivers\chromedriver\win64\119.0.6045.105\chromedriver-win32/chromedriver.exe] found in cache
+2023-11-07 23:35:35 INFO Test 2 Starting
+2023-11-07 23:35:36 INFO Send 'olegpopov1111111' to element //*[@id="login"]/div[1]/label/input
+2023-11-07 23:35:36 INFO Send '9164f4875d' to element //*[@id="login"]/div[2]/label/input
+2023-11-07 23:35:37 INFO Click logging button
+2023-11-07 23:35:39 INFO We find text Hello, olegpopov1111111 in enter-page field //*[@id="app"]/main/nav/ul/li[3]/a
